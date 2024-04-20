@@ -10,8 +10,7 @@
 - 📄 Know about my experiences [peterbgi.github.io](peterbgi.github.io)
 
 - ⚡ Fun fact **I think, I am persistent**
-
-<h3 align="left">Connect with me:</h3>
+  
 <p align="left">
 </p>
 

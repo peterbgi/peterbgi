@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **peti.bagi@icloud.com**
 
-- 📄 Know about my experiences [peterbgi.github.io](peterbgi.github.io)
-
 - ⚡ Fun fact **I think, I am persistent**
   
 <p align="left">

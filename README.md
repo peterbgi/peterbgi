@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I am Peter</h1>
-<h3 align="center">A newly graduated Software Developer and Tester from Hungary.</h3>
+<h1 align="center">Hi Everyone, I am Peter</h1>
+<h3 align="center">A junior Software Developer and Tester from Hungary.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peterbgi" alt="peterbgi" /></a> </p>
 

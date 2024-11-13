@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peterbgi&theme=" alt="peterbgi" /></a> </p>
 
 
-- 📫 How to reach me **bgipeter877@gmail.com**
+- 📫 How to reach me **petibagi51@gmail.com**
 
 <div> <a href="https://github.com/peterbgi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:peti.bagi@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
